@@ -1,0 +1,14 @@
+Facade\impl\FacturaFacadeImpl.class
+Exception\FacturaException.class
+Dao\FacturaDAO.class
+Config\Conexion.class
+Mediator\FacturaMediator.class
+Webservice\FacturaWebService.class
+Dao\impl\FacturaDaoImpl.class
+Mediator\impl\FacturaMediatorImpl.class
+util\ValidarCamposFacturaUtil.class
+Vo\ItemFacturaVO.class
+Facade\FacturaFacade.class
+Filter\CORSFilter.class
+Vo\RespuestaVO.class
+Vo\FacturaVO.class
